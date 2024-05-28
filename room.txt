@@ -1,0 +1,11 @@
+Room.no: detail: 
+1.  free 
+2.  free 
+3.  free 
+4.  occupied 
+5.  free 
+6.  free 
+7.  free 
+8.  free 
+9.  Occupied 
+10. free 

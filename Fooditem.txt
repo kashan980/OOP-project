@@ -1,0 +1,11 @@
+S.no: Item: Price:
+1  Karahi  1200
+2  Karahi  1000
+3 Nehari 500
+4 Fish 800
+5  Pulao 300
+6 Biryani 350
+7  Burger 250
+8  Pizza 1350
+9  Tikka 550
+10  Fries 150
